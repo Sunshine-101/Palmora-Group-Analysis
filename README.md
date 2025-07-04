@@ -47,5 +47,18 @@ This project develops a Power BI Desktop-based HR dashboard to support strategic
 - Dashboard Design
 - DAX formulas
 
+## Dashboard Features
+- Rating distribution by gender.
+- Departmental Insights.
+- Gender based and bonus analysis.
+- Total pay and bonus by region.
 
+## Reviews and feedbacks are highly welcome, please open and issue or create pull request.
+Contact:
+
+Author: Oluwaseun Adebayo
+
+Email: oluwaseun.e.adebayo@gmail.com
+
+GitHub: github.com/sunshine-101
 
