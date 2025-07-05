@@ -58,7 +58,7 @@ Contact:
 
 Author: Oluwaseun Adebayo
 
-Email: oluwaseun.e.adebayo@gmail.com
+Email: oluwaseun.e.adebayo@gmail.com 
 
 GitHub: github.com/sunshine-101
 
